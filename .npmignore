@@ -1,0 +1,7 @@
+.git
+examples
+node_modules
+src
+.babelrc
+.gitignore
+*.log
